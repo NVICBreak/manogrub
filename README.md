@@ -1,4 +1,4 @@
-# manogrub - A manosaba style GRUB theme.
+# manogrub - A manosaba style GRUB theme
 
 > This work is a fan-made derivative of the MagicGirl WitchTrials (魔法少女ノ魔女裁判).
 > 
