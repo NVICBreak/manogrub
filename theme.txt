@@ -1,0 +1,32 @@
+title-text: ""
+desktop-image: "background.png"
+terminal-left: "0"
+terminal-top: "0"
+terminal-border: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+
++ boot_menu {
+  left = 1220
+  top = 265
+  width = 550
+  height = 532
+  item_color = "#1b100d"
+  selected_item_color = "#e7e7e7"
+  item_icon_space = 5
+  item_height = 65
+  item_padding = 0
+  item_spacing = 1
+  selected_item_pixmap_style = "select_*.png"
+  font="font.pf2"
+}
+
++ label {
+  left = 2220
+  top = 100
+  align = "center"
+  id = "__timeout__"
+  text = "Boot in %d "
+  font="font.pf2"
+  color = "#e7e7e7"
+}
