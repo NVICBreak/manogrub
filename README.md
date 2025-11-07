@@ -2,17 +2,19 @@
 
 > This work is a fan-made derivative of the MagicGirl WitchTrials (魔法少女ノ魔女裁判).
 > 
+> I directly used and slightly modified the original in-game assets.If this infringes on your copyright, please contact me — I sincerely apologize!
+> 
 > The original series is owned by Re,AER.
 
 ## Information
 
-manogrub was designed for the 1920x1080 resolution
+**manogrub** was designed for the 1920x1080 resolution.
 
 ## Preview
 
 <img src="/pics/example.png" width="50%"> 
 
-(This preview picture is made by Photoshop because I can not take a screenshot in GRUB)
+(This preview picture is created in Photoshop because I can not take a screenshot in GRUB and it may differ slightly from the actual appearance)
 
 ## Installation Giude
 
