@@ -9,7 +9,8 @@
 manogrub was designed for the 1920x1080 resolution
 
 ## Preview
-![example][./pics/example.png]
+
+<img src="/pics/example.png" width="50%"> 
 
 (This preview picture is made by Photoshop because I can not take a screenshot in GRUB)
 

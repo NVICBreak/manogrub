@@ -9,9 +9,10 @@
 魔女引导仅为 1080P 分辨率设计
 
 ## 预览
-![example][./pics/example.png]
 
-（因为无法在GRUB内截图，因此预览图使用Photoshop）
+<img src="/pics/example.png" width="50%"> 
+
+（因为无法在GRUB内截图，因此预览图使用 Photoshop 制作）
 
 ## 安装方法
 
