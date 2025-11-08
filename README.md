@@ -2,7 +2,7 @@
 
 > This work is a fan-made derivative of the MagicGirl WitchTrials (魔法少女ノ魔女裁判).
 > 
-> I directly used and slightly modified the original in-game assets.If this infringes on your copyright, please contact me — I sincerely apologize!
+> I directly used and slightly modified the original in-game assets.If this infringes on your copyright, please contact me,I sincerely apologize!
 > 
 > The original series is owned by Re,AER.
 
@@ -32,4 +32,4 @@
 
 ## Others...
 
-This is my first time independently creating a GRUB theme.Please feel free to share any thoughts or advice if you notice something that could be improved!
+This is my first time independently creating a GRUB theme.Please feel free to share any thoughts or advice if you notice something that could be improved!Thank you so much!
