@@ -6,6 +6,8 @@
 > 
 > 原作 Re,AER.
 
+[Click here for the English version.](README.md)
+
 ## 注意
 
 **魔女引导**仅为 1080P 分辨率设计。
