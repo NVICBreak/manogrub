@@ -6,6 +6,8 @@
 > 
 > The original series is owned by Re,AER.
 
+[点此切换到中文版](README_CN.md)
+
 ## Information
 
 **manogrub** was designed for the 1920x1080 resolution.
